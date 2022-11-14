@@ -1,11 +1,12 @@
 {
   "name": "blog",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.01",
+  "description": "小黎博客",
   "author": {
-    "name": "小黎博客",
+    "name": "小黎",
     "email": "22708206@qq.com",
-    "url": "https://xiaoli.vip/"
+    "url": "https://xiaoli.vip"
   },
   "type": "module",
   "scripts": {
